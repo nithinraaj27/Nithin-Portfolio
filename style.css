@@ -84,7 +84,7 @@ body{
 
 .btn{
     display: flex;
-    width: 50vh;
+    width: 70vh;
     justify-content: space-between;
 }
 
